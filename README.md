@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Employee Attendance System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains the source code for an Employee Attendance System built using React. The system includes various modules and features for managing employee profiles, attendance, and leaves.
 
-## Available Scripts
+## Modules and Features
 
-In the project directory, you can run:
+### Employee Modules:
+1. **Employee Registration**: Allows new employees to register their accounts.
+2. **Employee Login**: Provides authentication for employees to access their accounts.
+3. **Employee Dashboard**: Displays relevant information and actions for employees.
+4. **Employee Sidebar**: Sidebar for employee-related functionalities.
+5. **My Profile**: Enables employees to view and update their profile information.
+6. **Employee Navbar**: Navigation bar for Welcome text and logout function.
+7. **Attendance**: Tracks employee attendance records.
+8. **Leave**: Allows employees to manage their leave requests.
 
-### `npm start`
+### Admin Modules:
+1. **Admin Login**: Authentication for admin access.
+2. **Admin Dashboard**: Dashboard for administrative tasks and monitoring.
+3. **Admin Sidebar**: Sidebar for admin functionalities.
+4. **Admin Navbar**: Navigation bar for Welcome text and logout function.
+5. **Employees Details**: View detailed information about all employees details.
+6. **Employees Attendance**: View detailed information about all employees attendance.
+7. **Attendance Records**: View and manage attendance records of all employees.
+8. **Manage Leaves**: Admin interface for managing leave conditions for employees.
+9. **Holiday**: Holidays Calendar for company and leave policies.
+10. **Employees Leaves**: View detailed information about all employees leaves. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Collaboration
+This project module Employee Registration, Employee Login, Employee Dashboard, Employee Navbar, Employee Sidebar, Admin Login, Admin Dashboard, Admin Navbar, Admin Sidebar  were developed by me (Junaid Shaikh) (https://github.com/Junaid661). However, the Attendance and Employee Attendance, Leaves, Holidays modules were contributed by Soyal Bhosle (https://github.com/Soyal-Bhosle).
