@@ -1,5 +1,4 @@
 {
-  "homepage": "https://Junaid661.github.io/Employees_Attendance_System",
   "name": "emp-attendance-system",
   "version": "0.1.0",
   "private": true,
@@ -23,8 +22,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "dev": "concurrently \"json-server src/Database/db.json --port 8000\" \"npm start\""
   },
   "eslintConfig": {
